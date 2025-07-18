@@ -1,0 +1,10 @@
+{
+  "PowerLineFrequency": 50,
+  "TaskName": "ShockYA",
+  "EEGChannelCount": 65,
+  "EEGReference": "E65",
+  "RecordingType": "continuous",
+  "RecordingDuration": 3816.997,
+  "SamplingFrequency": 1000,
+  "SoftwareFilters": "n/a"
+}
