@@ -4,7 +4,7 @@
 - This dataset includes resting state and auditory oddball task EEG data for two conditions: control and arousal (under threat of unpredictable shock).
 
 ## Event labels
-100 - 5 minutes eyes open resting, control condition, begin
+100 - 5 minutes eyes open resting, control condition, begin	
 101 - 5 minutes eyes open resting, control condition, end
 102 - 5 minutes eyes closed resting, control condition, begin
 103 - 5 minutes eyes closed resting, control condition, end
