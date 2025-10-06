@@ -1,6 +1,6 @@
 HeartBEAM Clinical Trial Young Adult EEG Dataset
 
-Event Labels
+Event Labels 
 100 - 5 minutes eyes open resting, control condition, begin
 
 101 - 5 minutes eyes open resting, control condition, end
