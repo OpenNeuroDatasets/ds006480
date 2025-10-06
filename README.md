@@ -80,6 +80,7 @@ Event Labels
 137 - active auditory oddball task, shock condition, run end
 
 Citations
+
 Nashiro, K., Yoo, H. J., Cho, C., Kim, A. J., Nasseri, P., Min, J., ... & Mather, M. (2024). Heart rate and breathing effects on attention and memory (HeartBEAM): Study protocol for a randomized controlled trial in older adults. Trials, 25(1), 190.
 
 Kim, A. J., Morales, S., Senior, J., & Mather, M. (2025). Electroencephalography, pupillometry, and behavioral evidence for locus coeruleus-noradrenaline system related tonic hyperactivity in older adults. Preprint: doi.org/10.1101/2025.10.02.680040
