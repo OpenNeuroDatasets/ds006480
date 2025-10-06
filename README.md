@@ -1,4 +1,4 @@
-HeartBEAM Clinical Trial Young Adult EEG Dataset
+This dataset includes resting state and auditory oddball task EEG data for two conditions: control and arousal (under threat of unpredictable shock). 
 
 Event Labels 
 
