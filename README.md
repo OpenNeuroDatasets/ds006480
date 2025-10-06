@@ -30,32 +30,53 @@ Event Labels
 112 - active auditory oddball task, control condition, trial start
 
 113 - active auditory oddball task, control condition, standard tone
+
 114 - active auditory oddball task, control condition, target tone
+
 115 - active auditory oddball task, control condition, distractor tone
+
 116 - active auditory oddball task, control condition, start of response period
+
 117 - active auditory oddball task, control condition, manual button response recorded
+
 118 - active auditory oddball task, control condition, run end
 
 119 - 5 minutes eyes open resting, shock condition, begin
+
 120 - 5 minutes eyes open resting, shock condition, end
+
 121 - 5 minutes eyes closed resting, shock condition, begin
+
 122 - 5 minutes eyes closed resting, shock condition, end
 
 123 - passive auditory oddball task, shock condition, run begin
+
 124 - passive auditory oddball task, shock condition, trial start
+
 125 - passive auditory oddball task, shock condition, standard tone
+
 126 - passive auditory oddball task, shock condition, target tone
+
 127 - passive auditory oddball task, shock condition, distractor tone
+
 128 - passive auditory oddball task, shock condition, trial end
+
 129 - passive auditory oddball task, shock condition, run end
 
 130 - active auditory oddball task, shock condition, run begin
+
 131 - active auditory oddball task, shock condition, trial start
+
 132 - active auditory oddball task, shock condition, standard tone
+
 133 - active auditory oddball task, shock condition, target tone
+
 134 - active auditory oddball task, shock condition, distractor tone
+
 135 - active auditory oddball task, shock condition, start of response period
+
 136 - active auditory oddball task, shock condition, manual button response recorded
+
 137 - active auditory oddball task, shock condition, run end
 
 Citations
