@@ -1,23 +1,34 @@
 HeartBEAM Clinical Trial Young Adult EEG Dataset
 
 Event Labels 
+
 100 - 5 minutes eyes open resting, control condition, begin
 
 101 - 5 minutes eyes open resting, control condition, end
 
 102 - 5 minutes eyes closed resting, control condition, begin
+
 103 - 5 minutes eyes closed resting, control condition, end
 
 104 - passive auditory oddball task, control condition, run begin
+
 105 - passive auditory oddball task, control condition, trial start
+
 106 - passive auditory oddball task, control condition, standard tone
+
 107 - passive auditory oddball task, control condition, target tone
+
 108 - passive auditory oddball task, control condition, distractor tone
+
 109 - passive auditory oddball task, control condition, trial end
+
 110 - passive auditory oddball task, control condition, run end
 
+
 111 - active auditory oddball task, control condition, run begin
+
 112 - active auditory oddball task, control condition, trial start
+
 113 - active auditory oddball task, control condition, standard tone
 114 - active auditory oddball task, control condition, target tone
 115 - active auditory oddball task, control condition, distractor tone
